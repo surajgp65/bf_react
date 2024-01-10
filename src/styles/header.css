@@ -1,0 +1,17 @@
+.navBar {
+  position: fixed;
+  display: flex;
+  width: 12rem;
+  height: calc(100vh - 0rem);
+  left: 0;
+  top: 0;
+  flex-direction: column;
+  background-color: #f8f9fa;
+}
+
+.linkStyle {
+  color: black !important;
+  padding: 20px 10px;
+  list-style: none;
+  text-decoration: none;
+}

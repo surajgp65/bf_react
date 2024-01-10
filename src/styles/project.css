@@ -1,0 +1,8 @@
+.project-menu{
+    display: inline-flex;
+    margin: 20px 0px;
+    padding: 10px;
+    list-style: none;
+    cursor: pointer;
+    text-decoration: none;
+}
